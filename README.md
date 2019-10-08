@@ -1,2 +1,2 @@
 # CodeForces-Problems
-All the problems I have ever solved on CodeForces
+All the coding problems I have ever solved on CodeForces
